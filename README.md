@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HavanaMi
-- 👀 I’m interested in coding, economia, research methods, graphic design, making apps, and learning Java, Node.js, etc.
+- 👀 I’m interested in coding, economy, research methods, graphic design, making apps, and learning Java, Node.js, etc.
 - 🌱 I’m currently learning Java and Node.js.
 - 💞️ I’m looking to collaborate on projects like pipelines and Node.js applications.
 - 📫 How to reach me: mika_u@mail.com
